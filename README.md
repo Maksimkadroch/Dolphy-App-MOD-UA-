@@ -50,7 +50,7 @@ This repository serves as the official landing page and documentation hub for Do
 Special thanks to the developers and researchers who helped bring this project to life:
 - ZalexDev
 - ars3nb
-- Astrocode
+- Astrocodee
 
 ================================================================================
 
@@ -104,4 +104,4 @@ Dolphy — это мощный Android-мультитул, созданный д
 Искренняя благодарность разработчикам и исследователям, внесшим вклад в развитие проекта:
 - ZalexDev
 - ars3nb
-- Astrocode
+- Astrocodee
