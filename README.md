@@ -4,7 +4,7 @@ Dolphy is a powerful Android multi-tool developed for wireless protocol research
 
 Dolphy releases telegram channel - https://t.me/Dolphy_app_official
 
----
+## The project is protected by a license; please review it!
 
 ## Features & Modules
 
