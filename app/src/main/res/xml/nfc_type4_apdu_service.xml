@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<host-apdu-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/app_name"
+    android:apduServiceBanner="@drawable/app_icon"
+    android:requireDeviceUnlock="false">
+
+    <aid-group
+        android:category="payment"
+        android:description="@string/app_name">
+        
+        <aid-filter android:name="D2760000850101" />
+        
+        <aid-filter android:name="325041592E5359532E4444463031" />
+    </aid-group>
+</host-apdu-service>
