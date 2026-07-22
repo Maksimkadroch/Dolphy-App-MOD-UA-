@@ -1,3 +1,0 @@
-REM @m5bear
-GUI l
-REPEAT 99999999

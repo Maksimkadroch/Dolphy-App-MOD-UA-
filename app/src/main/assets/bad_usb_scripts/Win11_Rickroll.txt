@@ -1,5 +1,0 @@
-REM Rickroll payload
-DELAY 500
-GUI r
-DELAY 200
-STRINGLN https://www.youtube.com/watch?v=dQw4w9WgXcQ
